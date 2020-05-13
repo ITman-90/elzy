@@ -1,0 +1,2 @@
+Host: elzy.ru
+Sitemap: http://elzy.ru/sitemap.xml
